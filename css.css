@@ -1,0 +1,21 @@
+.left {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+
+   h1 {
+    margin-bottom: 50px; 
+   }
+   h4 {
+	 text-indent: 25px
+	  }
+   p { 
+	 text-indent: 40px; 
+	  line-height: 1.5;
+}
+
+body{
+   background: linear-gradient(45deg, transparent 50%, rgba(0,186,0,0.2) 50%, rgba(0,186,0,0.2)), 
+   linear-gradient(-45deg, rgba(0,186,0,0.2) 50%, transparent 50%, transparent);
+   margin: 10px 50px;
+}x
