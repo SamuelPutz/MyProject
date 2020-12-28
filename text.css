@@ -11,3 +11,12 @@ th {
     text-align: left; 
     color: black;
 }
+a {
+  color: black; 
+}
+a:visited {
+  color: blue; 
+}
+a:active {
+  color: red; 
+}

@@ -24,8 +24,8 @@ a {
   color: black; 
 }
 a:visited {
-  color: red; 
+  color: blue; 
 }
 a:active {
-  color: blue; 
+  color: red; 
 }
